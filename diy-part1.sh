@@ -96,6 +96,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 # DDNS
 
 #动态域名解析
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddns package/luci-app-ddns
+#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ddns package/luci-app-ddns
 
 ##############################################################################################
